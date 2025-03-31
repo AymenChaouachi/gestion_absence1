@@ -1,6 +1,6 @@
 # Gestion-des-Absences
 A Java Swing-based application that allows administrators and teachers to manage absences (delete – admin, add – teacher, and view), while students can only view the list of absences.
-Technologies Used:Java,Swing,JDBC,SQL Server,Eclipse
+Technologies Used:Java, Swing, JDBC, SQL Server, Eclipse
 The provided files include all necessary Java files and the database required for the application.
 UML Design: Class Diagram, Use Case Diagram
 This scholarly project was a collaborative effort among three of my university colleagues. My main responsibilities included UML Diagrams design 
