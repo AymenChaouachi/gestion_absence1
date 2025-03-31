@@ -1,12 +1,10 @@
 # Gestion-des-Absences
-Application de gestion des absences écrite en java swing qui permet aux administrateurs et enseignants de gérer les absences(supprimer(admin) + ajouter(enseignant) + consulter)
-et aux étudiants de consulter la liste des absences .
-Tech utilisée : Java, Swing GUI, JDBC
-Database : SQLserver
-Software : Eclipse
-ici vous trouvez tous les fichiers java dont vous avez besoin plus la base de données sur laquelle on va travailler.
-Conception UML: diagramme de classe + diagramme de cas d'utilisation .
-Des captures d'ecran de l'application:
+A Java Swing-based application that allows administrators and teachers to manage absences (delete – admin, add – teacher, and view), while students can only view the list of absences.
+Technologies Used:Java,Swing,JDBC,SQL Server,Eclipse
+The provided files include all necessary Java files and the database required for the application.
+UML Design: Class Diagram, Use Case Diagram
+This scholarly project was a collaborative effort among three of my university colleagues. My main responsibilities included UML Diagrams design 
+Additionally, screenshots of the application are available.
 PAGE1:
 ![ensaignant](https://user-images.githubusercontent.com/103389967/231348965-3bb12857-dfbf-47ba-a20a-57210ae04538.PNG)
 ADMINISTRATEUR:
